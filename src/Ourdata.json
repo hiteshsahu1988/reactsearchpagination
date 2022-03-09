@@ -1,0 +1,19 @@
+[
+	{
+		"name" : "Hitesh",
+		"class":12,
+		"school":"Vidya peeth"
+	},
+
+	{
+		"name" : "Manoj",
+		"class":11,
+		"school":"Bhagat Singh"
+	},
+
+	{
+		"name" : "Tunesh",
+		"class":10,
+		"school":"Malviy"
+	},
+]

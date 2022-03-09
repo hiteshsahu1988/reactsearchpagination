@@ -1,0 +1,24 @@
+ [
+	{
+		"name" : "Product",
+		"class":12,
+		"img":"./img/prod1.jpg"
+	},
+
+	{
+		"name" : "Product1",
+		"class":11,
+		"img":"./img/prod2.jpg"
+	},
+
+	{
+		"name" : "Product3",
+		"class":10,
+		"img":"./img/prod3.jpg"
+	},
+	{
+		"name" : "Product4",
+		"class":10,
+		"img":"./img/prod3.jpg"
+	},
+]
